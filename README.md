@@ -2,10 +2,6 @@
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
-## Background
-
-Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
-
-The editor wants to run a series of feature stories about the health risks facing particular demographics. She's counting on you to sniff out the first story idea by sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
+This analysis uses D3 to chart demographics vs health risk factors. The website reads the data files and uses D3 to create a scatter plot. State abbreviations are displayed within each circle of the scatter plot. A tooltip shows the state's detailed data when the mouse is over a particular circle.
 
 
